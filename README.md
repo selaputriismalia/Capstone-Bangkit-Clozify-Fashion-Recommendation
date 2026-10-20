@@ -2,8 +2,6 @@
 
 Clozify adalah proyek capstone **Bangkit Academy 2024** berupa aplikasi rekomendasi fashion yang membantu pengguna menemukan inspirasi outfit berdasarkan suasana hati (*mood*) dan kondisi cuaca. Proyek ini menggabungkan pemrosesan machine learning, aplikasi Android, serta layanan cloud untuk mendukung alur rekomendasi.
 
-> **Catatan kontribusi:** Repository ini digunakan sebagai dokumentasi portofolio pribadi untuk proyek tim Clozify. Bagian kontribusi individu di bawah berfokus pada peran **Cloud Computing** yang saya kerjakan, bukan mengklaim seluruh sistem sebagai hasil kerja individu.
-
 ## Ringkasan Proyek
 
 - **Nama proyek:** Clozify
@@ -80,10 +78,6 @@ Teknologi di atas merupakan teknologi yang digunakan dalam proyek tim; tidak sem
 | Wahyu Benartdo Sembiring | Cloud Computing | Universitas Pendidikan Nasional |
 | Siti Nikmatul Ula | Mobile Development | Universitas Mulawarman |
 | Nabila Putri Normalita | Mobile Development | Universitas Mulawarman |
-
-## Pembelajaran
-
-Melalui proyek ini, saya memperoleh pengalaman bekerja dalam tim lintas bidang, memahami kebutuhan integrasi antara aplikasi dan layanan cloud, serta mendukung penyediaan backend API dan penggunaan layanan cloud dalam sebuah produk digital.
 
 ---
 
