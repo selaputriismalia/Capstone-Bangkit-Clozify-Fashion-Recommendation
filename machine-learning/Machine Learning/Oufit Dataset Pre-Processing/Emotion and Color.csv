@@ -1,0 +1,47 @@
+id,Color,Emotion_Category
+0,Red,Joy
+1,Yellow,Joy
+2,Pink,Joy
+3,Orange,Joy
+4,White,Joy
+5,Lime Green,Joy
+6,Peach,Joy
+7,Turquoise Blue,Joy
+8,Mustard,Joy
+9,Fluorescent Green,Joy
+10,Magenta,Joy
+11,Rose,Joy
+12,Green,Contentment
+13,Blue,Contentment
+14,Beige,Contentment
+15,Sea Green,Contentment
+16,Cream,Contentment
+17,Lavender,Contentment
+18,Olive,Contentment
+19,Skin,Contentment
+20,Black,Anger
+22,Khaki,Anger
+23,Bronze,Anger
+24,Copper,Anger
+25,Tan,Anger
+26,Purple,Sadness
+27,Brown,Sadness
+28,Grey,Sadness
+29,Charcoal,Sadness
+30,Rust,Sadness
+31,Mushroom Brown,Sadness
+32,Burgundy,Sadness
+33,Taupe,Sadness
+34,Gold,Fear
+35,Steel,Fear
+37,Navy Blue,Neutral
+39,Silver,Neutral
+40,Off White,Neutral
+41,Metallic,Neutral
+42,Multi,Neutral
+43,Teal,Contentment
+44,Maroon,Sadness
+45,Coffee Brown,Sadness
+46,Grey Melange,Sadness
+47,Mauve,Sadness
+48,Nude,Contentment
