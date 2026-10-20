@@ -1,13 +1,16 @@
 # Clozify Machine Learning
 
-Source repository: [C242-PS413/Clozify-ML](https://github.com/C242-PS413/Clozify-ML)
+This folder contains selected text-based ML assets copied from the original team repository: [C242-PS413/Clozify-ML](https://github.com/C242-PS413/Clozify-ML).
 
-The team machine-learning work includes mood detection and outfit recommendation experiments. The project README identifies TensorFlow, FER2013, ResNet50 embeddings, and cosine similarity among the technologies/data approaches used by the team.
+## Included
+- Mood detection notebooks
+- Data cleaning notebook
+- Emotion/color mapping CSV
+- Embedding extraction notebook
+- Team README
 
-## Source and attribution
+## Not yet included
+Large datasets and binary model assets were not copied, including the trained `my_model.h5` file and CSV datasets larger than 1 MB. The full recommendation-system notebook also exceeds the transfer limit used for this copy. Notebook execution may require the original datasets, model, and dependency versions.
 
-The original notebooks, trained model files, and related assets remain in the team's repository linked above. This portfolio documents the overall project and Sela Putri Ismalia's Cloud Computing contribution; it does not claim that she independently implemented the team's ML models.
-
-## Important
-
-The ML source and model artifacts have not been duplicated into this folder yet. To reproduce the ML work, use the original repository's notebooks and check their data/model paths and dependencies. Dataset files and model artifacts may be large, and their source/license should be checked before redistributing them.
+## Attribution
+The ML notebooks and model work belong to the Clozify team project. Sela Putri Ismalia's contribution was in the Cloud Computing learning path; this portfolio does not claim independent authorship of the team's ML models.
