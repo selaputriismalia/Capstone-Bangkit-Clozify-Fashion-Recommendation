@@ -1,17 +1,20 @@
 # Clozify Android Application
 
-This folder contains the text-based source files copied from the original team repository: [C242-PS413/Clozify-MD](https://github.com/C242-PS413/Clozify-MD).
+This folder contains a portfolio copy of the Android source files from the original team repository: [C242-PS413/Clozify-MD](https://github.com/C242-PS413/Clozify-MD).
 
 ## Included
-- Kotlin application, UI, data, and API source files
+
+- Kotlin application, UI, data, API source files, and tests
 - Android XML layouts and vector resources
-- Gradle build configuration and version catalog
-- Team README and test source files
+- Gradle build configuration, version catalog, Gradle wrapper scripts, and **Gradle Wrapper JAR**
+- Several original drawable images and the Play Store launcher image
 
-## Important limitations
-Binary assets could not be copied through the available GitHub connection. This includes image files used by the Android resources and the Gradle wrapper JAR. Therefore, this folder is **not yet a verified, standalone Android Studio project** and may not build until those original assets are added.
+## Remaining limitations
 
-For the complete project, open the original team repository in Android Studio. This copy is for portfolio documentation and source review. Configure backend/API endpoints and any required services for your environment before running.
+Some original Android image resources and launcher icon variants are still missing from this copy. As a result, the project has **not yet been verified as a standalone Android Studio build**. A build may fail if the remaining resource files are referenced by the source code.
+
+For the complete project and all original assets, open the original team repository in Android Studio. Configure backend/API endpoints and required services for your own environment before running.
 
 ## Attribution
+
 Clozify was developed by team C242-PS413 as the Bangkit Academy 2024 Capstone Project. This repository is Sela Putri Ismalia's portfolio copy and does not claim sole authorship of the full application.
