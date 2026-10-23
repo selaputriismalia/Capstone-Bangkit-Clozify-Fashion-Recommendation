@@ -10,6 +10,25 @@ Clozify adalah proyek capstone **Bangkit Academy 2024** berupa aplikasi rekomend
 - **Fokus:** Rekomendasi outfit berdasarkan mood dan cuaca
 - **Platform:** Aplikasi Android dengan dukungan layanan cloud dan machine learning
 
+## Struktur Repository
+
+Repository portofolio ini menggabungkan dokumentasi dan salinan source code dari beberapa bagian proyek tim:
+
+```text
+Capstone-Bangkit-Clozify-Fashion-Recommendation/
+├── backend/          # API FastAPI dan integrasi layanan cloud
+├── machine-learning/ # Notebook dan berkas pendukung machine learning
+├── mobile/           # Source code aplikasi Android
+└── README.md         # Ringkasan proyek dan kontribusi
+```
+
+Dokumentasi tiap bagian:
+- [Backend — instalasi dan konfigurasi](backend/README.md)
+- [Machine Learning — isi dan batasan salinan](machine-learning/README.md)
+- [Mobile — source code dan status aset](mobile/README.md)
+
+**Catatan kelengkapan:** beberapa berkas biner belum tersedia pada salinan portofolio ini, termasuk sebagian aset gambar Android, Gradle Wrapper JAR, model machine learning, dan dataset tertentu. Oleh karena itu, repository ini belum diverifikasi sebagai salinan yang dapat langsung menjalankan seluruh komponen. Lihat README masing-masing folder untuk detail. Gunakan repository tim asli untuk memperoleh aset lengkap.
+
 ## Latar Belakang
 
 Memilih outfit sehari-hari dapat dipengaruhi oleh banyak hal, termasuk suasana hati, kondisi cuaca, dan preferensi gaya. Clozify dikembangkan untuk memberikan rekomendasi outfit yang lebih kontekstual dengan memanfaatkan analisis ekspresi wajah untuk memperkirakan mood pengguna serta informasi cuaca terkini.
@@ -82,4 +101,6 @@ Teknologi di atas merupakan teknologi yang digunakan dalam proyek tim; tidak sem
 ---
 
 **Proyek tim asli:** [C242-PS413 / Clozify-ML](https://github.com/C242-PS413/Clozify-ML)  
+**Backend:** [C242-PS413 / clozify-backend](https://github.com/C242-PS413/clozify-backend)  
+**Mobile:** [C242-PS413 / Clozify-MD](https://github.com/C242-PS413/Clozify-MD)  
 **Dokumentasi portofolio:** Sela Putri Ismalia — Cloud Computing
